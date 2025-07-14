@@ -8,6 +8,8 @@ These scripts are designed for engineers, integrators, and technical users who n
 - Import/export pole metadata
 - Automate data population using dynamic form structures
 
+⚠️ **Disclaimer:** This repository is provided by D8Averse and is not part of the D8Acapture platform source code. It offers standalone tools for interacting with the public D8Acapture API.
+
 ---
 
 ## ⚙️ Requirements
