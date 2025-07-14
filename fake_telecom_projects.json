@@ -1,0 +1,152 @@
+[
+  {
+    "Project Name": "NYC-MH-Phase2",
+    "Latitude": 40.804398,
+    "Longitude": -73.785578
+  },
+  {
+    "Project Name": "SE-GA-BulkFiber",
+    "Latitude": 32.696009,
+    "Longitude": -83.250244
+  },
+  {
+    "Project Name": "TX-WST-NodeUpgrade",
+    "Latitude": 25.988631,
+    "Longitude": -94.715498
+  },
+  {
+    "Project Name": "PNW-MTN-MicrowaveLink",
+    "Latitude": 43.645559,
+    "Longitude": -118.878873
+  },
+  {
+    "Project Name": "LAX-FTTX-Sector3",
+    "Latitude": 36.684169,
+    "Longitude": -118.172362
+  },
+  {
+    "Project Name": "CHI-NB-5G-Buildout",
+    "Latitude": 41.908896,
+    "Longitude": -87.841105
+  },
+  {
+    "Project Name": "FL-CNTY-AerialPoleAudit",
+    "Latitude": 29.463626,
+    "Longitude": -84.980408
+  },
+  {
+    "Project Name": "MA-EAST-UtilitySurvey",
+    "Latitude": 42.203084,
+    "Longitude": -70.031179
+  },
+  {
+    "Project Name": "AZ-TRM-FiberDrop",
+    "Latitude": 35.900437,
+    "Longitude": -110.04188
+  },
+  {
+    "Project Name": "CO-FR-AnchorUpgrade",
+    "Latitude": 38.702767,
+    "Longitude": -105.043271
+  },
+  {
+    "Project Name": "FiberExpansion_2025_Q2",
+    "Latitude": 39.986225,
+    "Longitude": -92.468346
+  },
+  {
+    "Project Name": "PoleRemediation_2025",
+    "Latitude": 37.4087,
+    "Longitude": -81.592775
+  },
+  {
+    "Project Name": "MetroRingUpgrade_2024",
+    "Latitude": 36.074374,
+    "Longitude": -81.141449
+  },
+  {
+    "Project Name": "AerialSurveyPhase1_2025",
+    "Latitude": 40.314557,
+    "Longitude": -91.453644
+  },
+  {
+    "Project Name": "UndergroundRouteCheck_2025",
+    "Latitude": 41.347524,
+    "Longitude": -83.642865
+  },
+  {
+    "Project Name": "US-60-FiberRoute",
+    "Latitude": 27.769152,
+    "Longitude": -99.236053
+  },
+  {
+    "Project Name": "I95-Mile300-to-310",
+    "Latitude": 28.250453,
+    "Longitude": -82.852057
+  },
+  {
+    "Project Name": "RR-Corridor-TX2025",
+    "Latitude": 32.861368,
+    "Longitude": -97.077087
+  },
+  {
+    "Project Name": "Hwy17-PermitCheck",
+    "Latitude": 34.565011,
+    "Longitude": -83.077665
+  },
+  {
+    "Project Name": "LoopNorth-UtilityMakeReady",
+    "Latitude": 47.459728,
+    "Longitude": -90.827763
+  },
+  {
+    "Project Name": "Project Atlas",
+    "Latitude": 36.396517,
+    "Longitude": -85.283113
+  },
+  {
+    "Project Name": "Zephyr Run",
+    "Latitude": 35.210509,
+    "Longitude": -92.739609
+  },
+  {
+    "Project Name": "PhaseBlue",
+    "Latitude": 37.463064,
+    "Longitude": -91.988818
+  },
+  {
+    "Project Name": "Echo Line Q3",
+    "Latitude": 38.056386,
+    "Longitude": -92.578607
+  },
+  {
+    "Project Name": "Falcon Drop Map",
+    "Latitude": 36.334487,
+    "Longitude": -83.564575
+  },
+  {
+    "Project Name": "PoleAudit_NorthZone",
+    "Latitude": 37.451697,
+    "Longitude": -88.340072
+  },
+  {
+    "Project Name": "AttachmentVerification_Run3",
+    "Latitude": 35.32024,
+    "Longitude": -81.403732
+  },
+  {
+    "Project Name": "BackhaulSurvey-WestGrid",
+    "Latitude": 39.260451,
+    "Longitude": -84.594605
+  },
+  {
+    "Project Name": "FTTH-Prep_Cluster7",
+    "Latitude": 40.969766,
+    "Longitude": -87.774239
+  },
+  {
+    "Project Name": "SpanClearance_Review",
+    "Latitude": 37.213093,
+    "Longitude": -91.081128
+  }
+]
